@@ -1,6 +1,7 @@
-<!-- HEADER: Typing Animation -->
+
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&width=800&lines=Full-Stack+Systems+%26+AI+Engineer;Architecting+Scalable+Software+End-to-End;SaaS+Developer+%7C+Distributed+Systems+%7C+Cloud+%26+DevOps;Building+Intelligent+and+High-Performance+Platforms" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Systems+%26+AI+Engineer;SaaS+Platform+Developer+%7C+Distributed+Backend;Cloud-Native+Architecture+%7C+LLM+Engineering;Building+Scalable+Software+End-to-End" />
 </h1>
 
 ---
@@ -8,106 +9,98 @@
 # 👋 Hi, I'm **Hilal Ahmad**
 
 ## 🏗️ **Full-Stack Systems & AI Engineer**  
-### **Architecting Scalable Software End-to-End**  
-**SaaS Developer • Distributed Backend • Cloud Infrastructure • Applied Gen-AI**
+### Designing Scalable Software, Distributed Backends & Intelligent Platforms
 
-I engineer complete software systems — from **frontend architecture** to **distributed backend services**, **AI pipelines**, **databases**, **DevOps**, and **cloud deployments**.
+I engineer software **end-to-end** — from frontend to backend to AI systems to cloud deployments.  
+My work is driven by **architecture, performance, system clarity, and long-term maintainability**.
 
-My strengths combine **system design, full-stack engineering, cloud-native development, and applied Gen-AI**, enabling me to build **production-grade SaaS platforms** from scratch.
-
-I don't build for niches.  
-I build **systems that scale, perform, and last**.
+I don’t build for niches —  
+I build **systems, platforms, and intelligent automation**.
 
 ---
 
-# 🧠 **Core Engineering Skills**
+# 🧠 **Core Engineering Expertise**
 
 ### **Languages**
-- JavaScript, TypeScript
+- JavaScript • TypeScript  
 
 ### **Frontend**
-- React.js, Next.js  
+- React.js • Next.js  
 - Component-driven architecture  
-- Performance-focused rendering  
+- Performance & scalability mindset  
 
 ### **Backend**
-- Node.js  
-- Express.js  
-- NestJS  
-- Modular & distributed backend systems  
-- API & service architecture  
+- Node.js • Express.js • NestJS  
+- API design • Modular services  
+- Distributed system patterns  
 
-### **Databases**
-- PostgreSQL  
-- MongoDB  
+### **Data & Storage**
+- PostgreSQL • MongoDB  
 - Prisma ORM  
 - Redis (caching, queues, sessions)  
 
 ### **System Architecture**
 - Microservices  
-- Distributed systems  
-- Event-driven patterns  
-- Scalability & performance optimization  
-- Clean modular design  
+- Event-driven design  
+- Scalable backend engineering  
+- Maintainable modular architecture  
 
 ### **Cloud & DevOps**
 - AWS (EC2, S3, Lambda, IAM)  
 - Docker  
-- GitHub Actions CI/CD  
+- GitHub Actions (CI/CD)  
 - Cloud-native deployments  
 
-### **Applied Gen-AI**
+### **Gen-AI Engineering**
 - LLM integration (OpenAI, Gemini, DeepSeek)  
-- RAG pipelines  
-- Embeddings & vector search  
-- AI agents  
+- RAG pipelines & embeddings  
+- AI agents & automation  
 - LLM fine-tuning  
 
 ---
 
-# 🔧 **SaaS Developer Identity**
+# 🧩 **SaaS Engineering Identity**
 
-I build SaaS platforms **end-to-end**, including:
+I build full SaaS platforms including:
 
-- Authentication, roles, permissions  
+- Authentication & RBAC  
 - Multi-tenant architecture  
-- Billing, subscription flows  
-- Production-ready backend services  
-- Deployment pipelines  
-- Cloud infrastructure  
+- Scalable backend services  
+- API-driven system communication  
+- Cloud deployments & CI/CD pipelines  
+- Billing-ready architecture  
 - AI-enhanced automation  
-- Database design & performance tuning  
 
-A true **platform-focused engineer**, not just a feature developer.
+A complete SaaS engineer — from **architecture → development → production**.
 
 ---
 
-# 🚀 **Tech Stack Badges**
+# 🚀 **Tech Stack (Badges)**
 
 ### **Languages & Frameworks**
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 
 ### **Backend & Databases**
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis)
-![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
 
 ### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
 
-### **Gen-AI Tools**
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
-![Google Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google)
-![LLM](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=ai)
+### **AI & ML**
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-000?style=for-the-badge&logo=google)
+![LLM](https://img.shields.io/badge/LLM-000?style=for-the-badge&logo=ai)
 
 ---
 
@@ -115,46 +108,45 @@ A true **platform-focused engineer**, not just a feature developer.
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hilal6886&show_icons=true&theme=transparent&hide_border=true" />
+
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilal6886&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-# 🔥 **GitHub Streak**
+# 🔥 **GitHub Streak Stats**
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hilal6886&theme=transparent&hide_border=true" />
 </div>
 
 ---
 
-# 🏆 **GitHub Trophy Cabinet**
+# 🏆 **GitHub Trophy**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hilal6886&theme=algolia&no-frame=true&margin-w=15" />
 </div>
 
 ---
 
-# 🧩 **Current Focus (2025)**
+# 🎯 **Current Focus (2025)**
 
-- Distributed systems  
-- AI automation pipelines  
-- LLM fine-tuning  
+- Distributed backend engineering  
+- AI-driven systems & intelligent automation  
 - Cloud-native deployments  
-- High-performance backend engineering  
-- SaaS architecture & scaling  
+- System design & performance optimization  
+- End-to-end SaaS platform development  
 
 ---
 
-# 🧾 **One-Line Summary**
+# 🧾 **Professional Summary**
 
-### **Full-Stack Systems & AI Engineer building distributed backends, cloud-native platforms, and scalable SaaS applications end-to-end.**
+### **Full-Stack Systems & AI Engineer building distributed backend systems, cloud-native platforms, and scalable SaaS applications with strong architectural foundations.**
 
 ---
 
-# 📫 **Connect With Me**
-(Add your LinkedIn, email, portfolio URLs here)
+# 📫 **Let's Connect**
+(Add your LinkedIn, email, or portfolio links here)
